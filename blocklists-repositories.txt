@@ -33,3 +33,6 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+https://raw.githubusercontent.com/danielcuthbert/trackers/master/trackers.txt
+https://raw.githubusercontent.com/danielcuthbert/trackers/master/mobilegames.txt
+https://raw.githubusercontent.com/danielcuthbert/trackers/master/teams_endpoints.txt
